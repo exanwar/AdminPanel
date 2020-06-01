@@ -1,0 +1,26 @@
+//Bootstrap Select
+@import "~bootstrap-select/sass/bootstrap-select.scss";
+
+//Font Awesome
+@import '~@fortawesome/fontawesome-free/scss/fontawesome.scss';
+@import '~@fortawesome/fontawesome-free/scss/regular.scss';
+@import '~@fortawesome/fontawesome-free/scss/brands.scss';
+@import '~@fortawesome/fontawesome-free/scss/solid.scss';
+
+//full calendar
+@import '~@fullcalendar/core/main.min.css';
+
+//Phone Number
+@import '~vue-phone-number-input/dist/vue-phone-number-input.css';
+
+
+
+.nav-application > .router-link-exact-active{
+    background-color: #6E00FF !important;
+    color: #fff !important;
+    box-shadow: 0 1rem 3rem rgba(31,45,61,.125) !important;
+}
+
+.fc-left{
+    display: none;
+}
