@@ -30,7 +30,7 @@
         "@fullcalendar/core": "^4.4.0",
         "@fullcalendar/daygrid": "^4.4.0",
         "@fullcalendar/vue": "^4.4.0",
-        "apexcharts": "^3.19.0",
+        "apexcharts": "^3.24.0",
         "autosize": "^4.0.2",
         "bootstrap-select": "^1.13.17",
         "moment": "^2.25.3",
